@@ -4,4 +4,4 @@ GitHub Assignment for University
 <br>Name: Zain Shah</br>
 <br>Roll Number: SP26-BSAI-0045</br>
 <br>Program: BS Artificial Intelligence 1st Semester</br>
-<br>Career Goals: I want to become an Artificial Intelligence</br>
+<br>Career Goals: I want to become an Artificial Intelligence Engineer and develop intelligent systems that solve real-world problems</br>
