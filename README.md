@@ -10,3 +10,8 @@ GitHub Assignment for University
 <br>Problem Solving</br>
 <br>Teamwork</br>
 <br>Communication</br>
+## Interests
+<br>Artificial Intelligence</br>
+<br>Machine Learning</br>
+<br>Robotics</br>
+<br>Data Science</br>
